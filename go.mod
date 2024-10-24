@@ -1,4 +1,4 @@
-module github.com/tianon/gosu
+module github.com/crogl/gosu2
 
 go 1.20
 
